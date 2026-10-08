@@ -1,0 +1,18 @@
+T1.2 Inventari de finestres (b)
+
+* Hierarchy: Muestra todos los GameObjects presentes en la escena actual organizados en una estructura de árbol.
+
+
+* Scene: Proporciona una vista visual e interactiva en 3D/2D para posicionar, rotar y manipular los objetos del juego.
+
+
+* Game: Muestra la vista final que tendrá el jugador a través de la cámara del juego durante la ejecución.
+
+
+* Inspector: Muestra y permite editar las propiedades, componentes y configuraciones del objeto actualmente seleccionado.
+
+
+* Project: Muestra la estructura de archivos y carpetas del proyecto, incluyendo assets, scripts, materiales y prefabs.
+
+
+* Console: Muestra los mensajes de depuración, advertencias y errores generados por el código o el motor de Unity.

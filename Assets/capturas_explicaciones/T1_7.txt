@@ -1,0 +1,1 @@
+Player no se mueve con la plataforma porque al ser una esfera, la colision es minima, por lo tanto no adquiere momentum
